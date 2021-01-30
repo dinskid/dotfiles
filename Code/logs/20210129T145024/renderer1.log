@@ -1,0 +1,73 @@
+[2021-01-29 14:50:26.164] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dinskid/cp/contest/cf/1478/.vscode'
+[2021-01-29 14:50:36.180] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dinskid/cp/contest/cf/1478/.vscode'
+[2021-01-29 14:50:41.275] [renderer1] [error] Illegal argument: Error: Illegal argument
+    at Object.t.illegalArgument (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:50:698)
+    at file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1705:215
+    at d.invokeFunction (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1759:588)
+    at u._tryExecuteCommand (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4190:37)
+    at file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4189:774
+[2021-01-29 14:50:52.572] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:51:03.853] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:54:46.731] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:55:09.712] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:55:19.869] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:55:25.846] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:55:29.721] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:55:31.326] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:55:36.553] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:55:41.666] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:55:44.650] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:55:48.397] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:55:50.510] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:55:58.830] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:56:26.169] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:56:36.848] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:56:38.697] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:56:51.182] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:56:54.805] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:57:08.242] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:57:14.745] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:57:18.340] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:57:23.543] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:57:25.679] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:57:29.875] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:57:36.258] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:57:43.127] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:57:52.872] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:58:01.407] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:58:05.412] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:58:08.311] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:58:26.949] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:58:39.642] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:58:46.088] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:58:58.451] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:59:07.212] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:59:23.452] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 14:59:57.760] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:00:16.650] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:00:31.281] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:00:37.936] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:00:46.450] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:01:03.312] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:01:15.013] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:01:20.132] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:01:21.567] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:01:26.565] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:01:30.796] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:01:42.925] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:02:07.301] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:02:24.013] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:02:28.887] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:03:27.832] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:03:34.146] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:04:40.542] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:06:10.111] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:06:38.766] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:07:01.987] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:08:02.432] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:08:04.544] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:11:09.525] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:11:46.192] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:13:18.682] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:13:22.793] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-01-29 15:13:24.867] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

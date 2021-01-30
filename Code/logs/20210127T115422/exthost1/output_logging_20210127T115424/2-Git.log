@@ -1,0 +1,34 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/dinskid/cp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :contest/cf/1475/e.cpp
+> git ls-files --stage -- /home/dinskid/cp/contest/cf/1475/e.cpp
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] 65675fb8172806342b7108220fc4fa96523559d5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 65675fb8172806342b7108220fc4fa96523559d5
+> git show -s --format=%an <%ae> [%ai] bf5d9920df9d75bf7691b93e52947bfee1491343
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z bf5d9920df9d75bf7691b93e52947bfee1491343
+> git show -s --format=%an <%ae> [%ai] f5ebaf8d4c5ccc8eafd07257b2449c9b91c6ec99
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f5ebaf8d4c5ccc8eafd07257b2449c9b91c6ec99
+> git show -s --format=%an <%ae> [%ai] 454937613afcfcba1fda5f3368e1662f686021ea
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 454937613afcfcba1fda5f3368e1662f686021ea
+> git show -s --format=%an <%ae> [%ai] 790eb448f112436808dd9b5176ae2beaaa60f2f0

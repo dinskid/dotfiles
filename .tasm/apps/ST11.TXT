@@ -1,0 +1,5 @@
+
+1. Concatination
+2. Substring
+3. Exit
+ Enter the choice 
