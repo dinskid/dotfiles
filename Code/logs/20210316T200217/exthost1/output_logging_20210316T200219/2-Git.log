@@ -1,0 +1,104 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --git-dir
+Open repository: /home/dinskid/files/dev/iiitt.ac.in
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/dinskid/files/dev/iiitt.ac.in/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git config --global user.email
+> git show --textconv :js/script.js
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/js/script.js
+> git cat-file -s 22f79b505e50374a9045307cacad5054b7903821
+> git check-ignore -v -z --stdin
+> git show --textconv :json/tendernew.json
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/json/tendernew.json
+> git cat-file -s f3ee419dbc6ab7a5ded7d3136ec5913e5f2b33d6
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/dinskid/files/dev/iiitt.ac.in/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :json/tenderold.json
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/json/tenderold.json
+> git cat-file -s 43873d5f40a86ad48c6c16cfbbd75d4208c9b09d
+> git show --textconv :json/tendernew.json
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/json/tendernew.json
+> git cat-file -s f3ee419dbc6ab7a5ded7d3136ec5913e5f2b33d6
+> git show --textconv :json/tenderold.json
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/json/tenderold.json
+> git cat-file -s 43873d5f40a86ad48c6c16cfbbd75d4208c9b09d
+> git show --textconv :js/script.js
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/js/script.js
+> git cat-file -s 22f79b505e50374a9045307cacad5054b7903821
+> git show --textconv :json/tenderold.json
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/json/tenderold.json
+> git cat-file -s 43873d5f40a86ad48c6c16cfbbd75d4208c9b09d
+> git show --textconv :json/tendernew.json
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/json/tendernew.json
+> git cat-file -s f3ee419dbc6ab7a5ded7d3136ec5913e5f2b33d6
+> git show --textconv :json/tenderold.json
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/json/tenderold.json
+> git cat-file -s 43873d5f40a86ad48c6c16cfbbd75d4208c9b09d
+> git show --textconv :js/script.js
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/js/script.js
+> git cat-file -s 22f79b505e50374a9045307cacad5054b7903821
+> git show --textconv :json/tenderold.json
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/json/tenderold.json
+> git cat-file -s 43873d5f40a86ad48c6c16cfbbd75d4208c9b09d
+> git show --textconv :js/script.js
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/js/script.js
+> git cat-file -s 22f79b505e50374a9045307cacad5054b7903821
+> git show --textconv :json/tendernew.json
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/json/tendernew.json
+> git cat-file -s f3ee419dbc6ab7a5ded7d3136ec5913e5f2b33d6
+> git show --textconv :js/script.js
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/js/script.js
+> git cat-file -s 22f79b505e50374a9045307cacad5054b7903821
+> git show --textconv :json/tendernew.json
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/json/tendernew.json
+> git cat-file -s f3ee419dbc6ab7a5ded7d3136ec5913e5f2b33d6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/dinskid/files/dev/iiitt.ac.in/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/dinskid/files/dev/iiitt.ac.in/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :js/script.js
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/js/script.js
+> git cat-file -s 22f79b505e50374a9045307cacad5054b7903821
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/dinskid/files/dev/iiitt.ac.in/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :json/tendernew.json
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/json/tendernew.json
+> git cat-file -s f3ee419dbc6ab7a5ded7d3136ec5913e5f2b33d6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/dinskid/files/dev/iiitt.ac.in/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :js/script.js
+> git ls-files --stage -- /home/dinskid/files/dev/iiitt.ac.in/js/script.js
+> git cat-file -s 22f79b505e50374a9045307cacad5054b7903821

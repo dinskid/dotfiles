@@ -2,51 +2,54 @@
     "telemetry.machineId": "089d6186db40b42f3a62d631e09da2f9a22a0050aee8e70011cbdcc2d74a9f50",
     "openedPathsList": {
         "workspaces3": [
-            "file:///home/dinskid/cp/contest/cf/1476",
-            "file:///home/dinskid/cp/contest/cf/1478",
-            "file:///home/dinskid/cp/rand/cf/idiotic/a",
-            "file:///home/dinskid/cp/contest/cf/1475",
-            "file:///home/dinskid/json",
-            "file:///home/dinskid/files/js/iiitt",
-            "file:///home/dinskid/files/python/test",
+            "file:///home/dinskid/files/dev/iiitt.ac.in",
+            "file:///home/dinskid/cp/rand/cf/idiotic",
+            "file:///home/dinskid/cp/contest/cc/mar2021",
+            "file:///home/dinskid/cp/contest/cf/1496",
+            "file:///home/dinskid/cp/contest/cf/1493",
+            "file:///home/dinskid/cp/algos/graphs/galen",
+            "file:///home/dinskid/cp/contest/cf/1490",
+            "file:///home/dinskid/cp/contest/cf/1486",
             "file:///home/dinskid/cp/contest/cc/janco2021",
-            "file:///home/dinskid/cp/leetcode",
-            "file:///home/dinskid/cp/contest/cf/1474",
-            "file:///home/dinskid",
-            "file:///home/dinskid/cp/contest/cf/1473",
-            "file:///home/dinskid/cp",
-            "file:///home/dinskid/files/internship/beta",
-            "file:///home/dinskid/files/clg/iiitt.ac.in",
-            "file:///home/dinskid/files/internship/virtualwatercooler",
-            "file:///home/dinskid/files/internship/virtual-watercooler",
-            "file:///home/dinskid/cp/contest/cc/jan2021",
-            "file:///home/dinskid/files/internship/virtual-watercooler/frontend"
+            "file:///home/dinskid/cp/contest/cc/feb2021",
+            "file:///home/dinskid/files/java/fgit",
+            "file:///home/dinskid/cp/contest/cf/1480",
+            "file:///home/dinskid/cp/contest/cf/1481"
         ],
         "files2": [
-            "file:///home/dinskid/cp/rand/cf/idiotic/a/strange_partition.cpp",
-            "file:///home/dinskid/files/js/iiitt/src/common/utils.js",
-            "file:///home/dinskid/json/script.py",
-            "file:///home/dinskid/cp/contest/cc/janco2021/a.cpp",
-            "file:///home/dinskid/files/python/test/extract.py",
-            "file:///home/dinskid/cp/contest/cf/1474/d.cpp",
-            "file:///home/dinskid/cp/lis.cpp",
-            "file:///home/dinskid/files/js/iiitt/src/pages/studentcouncil/index.js",
-            "file:///home/dinskid/files/internship/beta/frontend/.gitignore",
-            "file:///home/dinskid/cp/contest/cc/jan2021/a.cpp",
-            "file:///home/dinskid/.notable/notes/Probability%20Notes.md",
-            "file:///home/dinskid/files/internship/virtual-watercooler/frontend/src/components/Feedback.js",
-            "file:///home/dinskid/files/internship/virtual-watercooler/backend/functions/package.json",
-            "file:///home/dinskid/files/internship/virtual-watercooler/frontend/src/components/ButtonTextField/ButtonTextField.js",
-            "file:///home/dinskid/files/internship/virtual-watercooler/frontend/src/components/ButtonTextField/index.js",
-            "file:///home/dinskid/files/internship/virtual-watercooler/frontend/src/common/usePersistedState.js",
-            "file:///home/dinskid/files/internship/virtual-watercooler/frontend/.gitignore",
-            "file:///home/dinskid/files/internship/virtual-watercooler/frontend/src/components/chatroom.css",
-            "file:///home/dinskid/files/internship/virtual-watercooler/frontend/src/components/ChatRoom.js",
-            "file:///home/dinskid/files/internship/virtual-watercooler/frontend/src/App.js",
-            "file:///home/dinskid/files/internship/virtual-watercooler/backend/functions/index.js",
-            "file:///home/dinskid/files/internship/virtual-watercooler/.gitignore"
+            "file:///home/dinskid/files/dev/data",
+            "file:///home/dinskid/cp/rand/cf/idiotic/going_home.cpp",
+            "file:///home/dinskid/t.java",
+            "file:///home/dinskid/cp/contest/cf/1496/b.cpp",
+            "file:///home/dinskid/cp/contest/cc/mar2021/c.cpp",
+            "file:///home/dinskid/cp/contest/cf/1493/a.cpp",
+            "file:///home/dinskid/cp/contest/cc/mar2021/a.cpp",
+            "file:///home/dinskid/cp/rand/cf/rated/maximum_width.cpp",
+            "file:///home/dinskid/cp/contest/cf/1490/e1.cpp",
+            "file:///home/dinskid/cp/algos/graphs/bridge.cpp",
+            "file:///home/dinskid/test.cpp",
+            "file:///home/dinskid/cp/rand/cf/idiotic/c/a_tale_of_two_lands.cpp",
+            "file:///home/dinskid/cp/contest/c1.cpp",
+            "file:///home/dinskid/cp/contest/mahi.cpp",
+            "file:///home/dinskid/cp/rand/cf/idiotic/b/taxi.cpp"
         ]
     },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/dinskid/files/dev/iiitt.ac.in",
+            "backupPath": "/home/dinskid/.config/Code/Backups/c18d39cf2158efdc2c2a02229b69da75",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#222222",
     "lastKnownMenubarData": {
         "menus": {
             "File": {
@@ -75,7 +78,7 @@
                         "label": "Open Wor&&kspace..."
                     },
                     {
-                        "id": "submenuitem.24",
+                        "id": "submenuitem.25",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -91,79 +94,90 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/dinskid/cp/contest/cf/1476",
-                                        "external": "file:///home/dinskid/cp/contest/cf/1476",
-                                        "path": "/home/dinskid/cp/contest/cf/1476",
+                                        "fsPath": "/home/dinskid/files/dev/iiitt.ac.in",
+                                        "external": "file:///home/dinskid/files/dev/iiitt.ac.in",
+                                        "path": "/home/dinskid/files/dev/iiitt.ac.in",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/cp/contest/cf/1476"
+                                    "label": "~/files/dev/iiitt.ac.in"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/cp/contest/cf/1478",
-                                        "path": "/home/dinskid/cp/contest/cf/1478",
+                                        "external": "file:///home/dinskid/cp/rand/cf/idiotic",
+                                        "path": "/home/dinskid/cp/rand/cf/idiotic",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/cp/contest/cf/1478"
+                                    "label": "~/cp/rand/cf/idiotic"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/cp/rand/cf/idiotic/a",
-                                        "path": "/home/dinskid/cp/rand/cf/idiotic/a",
+                                        "external": "file:///home/dinskid/cp/contest/cc/mar2021",
+                                        "path": "/home/dinskid/cp/contest/cc/mar2021",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/cp/rand/cf/idiotic/a"
+                                    "label": "~/cp/contest/cc/mar2021"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/cp/contest/cf/1475",
-                                        "path": "/home/dinskid/cp/contest/cf/1475",
+                                        "external": "file:///home/dinskid/cp/contest/cf/1496",
+                                        "path": "/home/dinskid/cp/contest/cf/1496",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/cp/contest/cf/1475"
+                                    "label": "~/cp/contest/cf/1496"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/json",
-                                        "path": "/home/dinskid/json",
+                                        "external": "file:///home/dinskid/cp/contest/cf/1493",
+                                        "path": "/home/dinskid/cp/contest/cf/1493",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/json"
+                                    "label": "~/cp/contest/cf/1493"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/files/js/iiitt",
-                                        "path": "/home/dinskid/files/js/iiitt",
+                                        "external": "file:///home/dinskid/cp/algos/graphs/galen",
+                                        "path": "/home/dinskid/cp/algos/graphs/galen",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/files/js/iiitt"
+                                    "label": "~/cp/algos/graphs/galen"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/files/python/test",
-                                        "path": "/home/dinskid/files/python/test",
+                                        "external": "file:///home/dinskid/cp/contest/cf/1490",
+                                        "path": "/home/dinskid/cp/contest/cf/1490",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/files/python/test"
+                                    "label": "~/cp/contest/cf/1490"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dinskid/cp/contest/cf/1486",
+                                        "path": "/home/dinskid/cp/contest/cf/1486",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/cp/contest/cf/1486"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -180,23 +194,12 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/cp/leetcode",
-                                        "path": "/home/dinskid/cp/leetcode",
+                                        "external": "file:///home/dinskid/cp/contest/cc/feb2021",
+                                        "path": "/home/dinskid/cp/contest/cc/feb2021",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/cp/leetcode"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/dinskid/cp/contest/cf/1474",
-                                        "path": "/home/dinskid/cp/contest/cf/1474",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/cp/contest/cf/1474"
+                                    "label": "~/cp/contest/cc/feb2021"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -205,111 +208,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/cp/rand/cf/idiotic/a/strange_partition.cpp",
-                                        "path": "/home/dinskid/cp/rand/cf/idiotic/a/strange_partition.cpp",
+                                        "external": "file:///home/dinskid/files/dev/data",
+                                        "path": "/home/dinskid/files/dev/data",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/cp/rand/cf/idiotic/a/strange_partition.cpp"
+                                    "label": "~/files/dev/data"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/files/js/iiitt/src/common/utils.js",
-                                        "path": "/home/dinskid/files/js/iiitt/src/common/utils.js",
+                                        "external": "file:///home/dinskid/cp/rand/cf/idiotic/going_home.cpp",
+                                        "path": "/home/dinskid/cp/rand/cf/idiotic/going_home.cpp",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/files/js/iiitt/src/common/utils.js"
+                                    "label": "~/cp/rand/cf/idiotic/going_home.cpp"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/json/script.py",
-                                        "path": "/home/dinskid/json/script.py",
+                                        "external": "file:///home/dinskid/t.java",
+                                        "path": "/home/dinskid/t.java",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/json/script.py"
+                                    "label": "~/t.java"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/cp/contest/cc/janco2021/a.cpp",
-                                        "path": "/home/dinskid/cp/contest/cc/janco2021/a.cpp",
+                                        "external": "file:///home/dinskid/cp/contest/cf/1496/b.cpp",
+                                        "path": "/home/dinskid/cp/contest/cf/1496/b.cpp",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/cp/contest/cc/janco2021/a.cpp"
+                                    "label": "~/cp/contest/cf/1496/b.cpp"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/files/python/test/extract.py",
-                                        "path": "/home/dinskid/files/python/test/extract.py",
+                                        "external": "file:///home/dinskid/cp/contest/cc/mar2021/c.cpp",
+                                        "path": "/home/dinskid/cp/contest/cc/mar2021/c.cpp",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/files/python/test/extract.py"
+                                    "label": "~/cp/contest/cc/mar2021/c.cpp"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/cp/contest/cf/1474/d.cpp",
-                                        "path": "/home/dinskid/cp/contest/cf/1474/d.cpp",
+                                        "external": "file:///home/dinskid/cp/contest/cf/1493/a.cpp",
+                                        "path": "/home/dinskid/cp/contest/cf/1493/a.cpp",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/cp/contest/cf/1474/d.cpp"
+                                    "label": "~/cp/contest/cf/1493/a.cpp"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/cp/lis.cpp",
-                                        "path": "/home/dinskid/cp/lis.cpp",
+                                        "external": "file:///home/dinskid/cp/contest/cc/mar2021/a.cpp",
+                                        "path": "/home/dinskid/cp/contest/cc/mar2021/a.cpp",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/cp/lis.cpp"
+                                    "label": "~/cp/contest/cc/mar2021/a.cpp"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/files/js/iiitt/src/pages/studentcouncil/index.js",
-                                        "path": "/home/dinskid/files/js/iiitt/src/pages/studentcouncil/index.js",
+                                        "external": "file:///home/dinskid/cp/rand/cf/rated/maximum_width.cpp",
+                                        "path": "/home/dinskid/cp/rand/cf/rated/maximum_width.cpp",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/files/js/iiitt/src/pages/studentcouncil/index.js"
+                                    "label": "~/cp/rand/cf/rated/maximum_width.cpp"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/files/internship/beta/frontend/.gitignore",
-                                        "path": "/home/dinskid/files/internship/beta/frontend/.gitignore",
+                                        "external": "file:///home/dinskid/cp/contest/cf/1490/e1.cpp",
+                                        "path": "/home/dinskid/cp/contest/cf/1490/e1.cpp",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/files/internship/beta/frontend/.gitignore"
+                                    "label": "~/cp/contest/cf/1490/e1.cpp"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/dinskid/cp/contest/cc/jan2021/a.cpp",
-                                        "path": "/home/dinskid/cp/contest/cc/jan2021/a.cpp",
+                                        "external": "file:///home/dinskid/cp/algos/graphs/bridge.cpp",
+                                        "path": "/home/dinskid/cp/algos/graphs/bridge.cpp",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/cp/contest/cc/jan2021/a.cpp"
+                                    "label": "~/cp/algos/graphs/bridge.cpp"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -351,7 +354,7 @@
                         "label": "Save &&As..."
                     },
                     {
-                        "id": "workbench.action.files.saveAll",
+                        "id": "saveAll",
                         "label": "Save A&&ll",
                         "enabled": false
                     },
@@ -363,7 +366,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.23",
+                        "id": "submenuitem.24",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -407,6 +410,17 @@
                                 {
                                     "id": "workbench.action.selectIconTheme",
                                     "label": "File &&Icon Theme"
+                                },
+                                {
+                                    "id": "workbench.action.selectProductIconTheme",
+                                    "label": "&&Product Icon Theme"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.userDataSync.actions.manage",
+                                    "label": "Settings Sync is On"
                                 }
                             ]
                         }
@@ -594,7 +608,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.15",
+                        "id": "submenuitem.16",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -640,8 +654,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
-                                    "checked": true
+                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -677,7 +690,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.21",
+                        "id": "submenuitem.22",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -769,6 +782,10 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
+                        "id": "workbench.actions.view.problems",
+                        "label": "&&Problems"
+                    },
+                    {
                         "id": "workbench.action.output.toggleOutput",
                         "label": "&&Output"
                     },
@@ -779,10 +796,6 @@
                     {
                         "id": "workbench.action.terminal.toggleTerminal",
                         "label": "&&Terminal"
-                    },
-                    {
-                        "id": "workbench.actions.view.problems",
-                        "label": "&&Problems"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -825,14 +838,13 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.26",
+                        "id": "submenuitem.27",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -881,7 +893,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.28",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -1050,7 +1062,8 @@
                     },
                     {
                         "id": "workbench.action.debug.configure",
-                        "label": "Open &&Configurations"
+                        "label": "Open &&Configurations",
+                        "enabled": false
                     },
                     {
                         "id": "debug.addConfiguration",
@@ -1087,7 +1100,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.22",
+                        "id": "submenuitem.23",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -1201,6 +1214,10 @@
                         "label": "&&Welcome"
                     },
                     {
+                        "id": "workbench.action.showGettingStarted",
+                        "label": "Getting Started"
+                    },
+                    {
                         "id": "workbench.action.showInteractivePlayground",
                         "label": "I&&nteractive Playground"
                     },
@@ -1258,7 +1275,7 @@
                     },
                     {
                         "id": "workbench.action.toggleDevTools",
-                        "label": "&&Toggle Developer Tools"
+                        "label": "Toggle Developer Tools"
                     },
                     {
                         "id": "workbench.action.openProcessExplorer",
@@ -1486,10 +1503,6 @@
                 "label": "Ctrl+Shift+E",
                 "userSettingsLabel": "ctrl+shift+e"
             },
-            "workbench.view.search": {
-                "label": "Ctrl+Shift+F",
-                "userSettingsLabel": "ctrl+shift+f"
-            },
             "workbench.view.scm": {
                 "label": "Ctrl+Shift+G",
                 "userSettingsLabel": "ctrl+shift+g"
@@ -1497,6 +1510,10 @@
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
                 "userSettingsLabel": "ctrl+shift+d"
+            },
+            "workbench.actions.view.problems": {
+                "label": "Ctrl+Shift+M",
+                "userSettingsLabel": "ctrl+shift+m"
             },
             "workbench.action.output.toggleOutput": {
                 "label": "Ctrl+K Ctrl+H",
@@ -1510,10 +1527,6 @@
             "workbench.action.terminal.toggleTerminal": {
                 "label": "Ctrl+`",
                 "userSettingsLabel": "ctrl+`"
-            },
-            "workbench.actions.view.problems": {
-                "label": "Ctrl+Shift+M",
-                "userSettingsLabel": "ctrl+shift+m"
             },
             "editor.action.toggleWordWrap": {
                 "label": "Alt+Z",
@@ -1697,21 +1710,5 @@
             }
         }
     },
-    "theme": "vs-dark",
-    "themeBackground": "#222222",
-    "windowsState": {
-        "lastActiveWindow": {
-            "folder": "file:///home/dinskid/cp/contest/cf/1476",
-            "backupPath": "/home/dinskid/.config/Code/Backups/ba78562c2cb6799fa5b3b14b2d19ee3a",
-            "uiState": {
-                "mode": 0,
-                "x": 1079,
-                "y": 277,
-                "width": 1024,
-                "height": 766
-            }
-        },
-        "openedWindows": []
-    },
-    "pickerWorkingDir": "/home/dinskid/files/internship"
+    "pickerWorkingDir": "/home/dinskid/cp/algos/graphs"
 }

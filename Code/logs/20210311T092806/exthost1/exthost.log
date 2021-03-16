@@ -1,0 +1,43 @@
+[2021-03-11 09:28:07.777] [exthost] [info] extension host started
+[2021-03-11 09:28:07.842] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-03-11 09:28:07.843] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-03-11 09:28:07.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-11 09:28:07.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-03-11 09:28:07.871] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-11 09:28:07.871] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-03-11 09:28:07.901] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2021-03-11 09:28:07.901] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/dinskid/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3912/out/prod/extension-prod
+[2021-03-11 09:28:08.082] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-03-11 09:28:08.083] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/dinskid/.vscode/extensions/vscodevim.vim-1.18.9/out/extension
+[2021-03-11 09:28:08.272] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-11 09:28:08.272] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-11 09:28:08.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-11 09:28:08.369] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-03-11 09:28:08.530] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-03-11 09:28:08.530] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-03-11 09:28:09.526] [exthost] [info] eager extensions activated
+[2021-03-11 09:28:09.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-11 09:28:09.543] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-11 09:28:09.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-11 09:28:09.587] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-11 09:28:09.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-11 09:28:09.595] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-11 09:28:14.028] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-11 09:28:14.028] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-03-11 09:28:14.032] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-11 09:28:14.032] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-03-11 09:28:14.048] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-11 09:28:14.048] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-03-11 09:28:17.084] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":false,"extensionId":{"value":"vscjava.vscode-java-debug","_lower":"vscjava.vscode-java-debug"},"activationEvent":"onLanguage:java"}
+[2021-03-11 09:28:17.084] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/dinskid/.vscode/extensions/vscjava.vscode-java-debug-0.31.0/dist/extension
+[2021-03-11 09:28:19.457] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:java"}
+[2021-03-11 09:28:19.457] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/dinskid/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.11/dist/intellicode
+[2021-03-11 09:28:21.342] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":false,"extensionId":{"value":"redhat.java","_lower":"redhat.java"},"activationEvent":"onLanguage:java"}
+[2021-03-11 09:28:21.342] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/dinskid/.vscode/extensions/redhat.java-0.76.0/dist/extension
+[2021-03-11 09:28:21.447] [exthost] [error] Activating extension redhat.java failed due to an error:
+[2021-03-11 09:28:21.447] [exthost] [error] {"message":"Java 11 or more recent is required to run the Java extension. Please download and install a recent JDK. You can still compile your projects with older JDKs by configuring ['java.configuration.runtimes'](https://github.com/redhat-developer/vscode-java/wiki/JDK-Requirements#java.configuration.runtimes)","label":"Get the Java Development Kit","command":"vscode.open","commandParam":{"$mid":1,"path":"/products/openjdk/download/","scheme":"https","authority":"developers.redhat.com","query":"sc_cid=701f2000000RWTnAAO"}}
+[2021-03-11 09:28:21.479] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":false,"extensionId":{"value":"vscjava.vscode-java-pack","_lower":"vscjava.vscode-java-pack"},"activationEvent":"onLanguage:java"}
+[2021-03-11 09:28:21.479] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/dinskid/.vscode/extensions/vscjava.vscode-java-pack-0.13.0/out/extension
+[2021-03-11 09:46:42.441] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:3,$model7) has been disposed"}
+[2021-03-11 10:08:03.792] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-03-11 10:08:04.807] [exthost] [info] exiting with code 0

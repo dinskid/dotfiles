@@ -1,0 +1,13 @@
+[2021-03-12 17:36:42.663] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2021-03-12 17:36:42.664] [sharedprocess] [info] Installing extension: vscjava.vscode-java-debug
+[2021-03-12 17:36:43.273] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-debug undefined
+[2021-03-12 17:36:43.352] [sharedprocess] [info] Extracted extension to /home/dinskid/.vscode/extensions/.vscjava.vscode-java-debug-0.32.0: vscjava.vscode-java-debug
+[2021-03-12 17:36:43.352] [sharedprocess] [info] Renamed to /home/dinskid/.vscode/extensions/vscjava.vscode-java-debug-0.32.0
+[2021-03-12 17:36:43.353] [sharedprocess] [info] Installation completed. vscjava.vscode-java-debug
+[2021-03-12 17:36:43.361] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2021-03-12 17:36:43.933] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare undefined
+[2021-03-12 17:36:44.748] [sharedprocess] [info] Extracted extension to /home/dinskid/.vscode/extensions/.ms-vsliveshare.vsliveshare-1.0.3968: ms-vsliveshare.vsliveshare
+[2021-03-12 17:36:44.748] [sharedprocess] [info] Renamed to /home/dinskid/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968
+[2021-03-12 17:36:44.750] [sharedprocess] [info] Installation completed. ms-vsliveshare.vsliveshare
+[2021-03-12 17:36:44.768] [sharedprocess] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare
+[2021-03-12 17:37:20.228] [sharedprocess] [info] Starting to clean up unused language packs.

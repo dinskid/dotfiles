@@ -15,7 +15,7 @@
             "command": "make ${fileBasenameNoExtension} && mv ${fileBasenameNoExtension} .outputs/ && .outputs/${fileBasenameNoExtension}",
             "options": {
                 "env": {
-                    "CXXFLAGS": "-std=c++17 -O2 -Wshadow -Wall -Wno-unused-result -g -DLOCAL",
+                    "CXXFLAGS": "-std=c++17 -Wshadow -Wall -g -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -DLOCAL",
                 }
             },
             "group": {
@@ -27,23 +27,6 @@
                 "reveal": "always",
                 "focus": true,
                 "panel": "dedicated",
-            }
-        },
-        {
-            "label": "cp_compile_with_dbg",
-            "type": "shell",
-            "command": "g++ -std=c++17 -O2 -Wshadow -Wall -g -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -DLOCAL ${fileBasename} -o ${fileBasenameNoExtension} && mv ${fileBasenameNoExtension} .outputs/ && .outputs/${fileBasenameNoExtension}",
-            "options": {
-                "env": {
-                    "CXXFLAGS": "-std=c++17 -O2 -Wshadow -Wall -Wno-unused-result -g -DLOCAL",
-                }
-            },
-            "group": "build",
-            "presentation": {
-                "echo": true,
-                "reveal": "always",
-                "focus": true,
-                "panel": "new",
             }
         },
         {
@@ -59,12 +42,6 @@
         },
     ],
     "options": {
-        "shell": {
-            "executable": "bash",
-            "args": [
-                "-c"
-            ]
-        },
         "cwd": "${fileDirname}"
     }
 }

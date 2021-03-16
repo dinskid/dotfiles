@@ -1,0 +1,60 @@
+file:///home/dinskid/cp/contest/cc/janco2021/d1.cpp {"mtime":1613107600817,"ctime":1612595958153,"size":1312,"etag":"36eqbknh51ba","orphaned":false}
+#include <bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+typedef pair<int, int> pii;
+template <class T> using v = std::vector<T>;
+
+#define endl "\n"
+#define FOR(i, a, n) for (ll i = a; i <= n; i++)
+#define ROF(i, a, n) for (ll i = a; i >= n; i--)
+#define all(x) (x).begin() + 1, (x).end()
+#define All(x) (x).begin(), (x).end()
+
+const ll INF = 0x7f7f7f7f7f7f7f7f;
+const int inf = 0x7f7f7f7f;
+/*
+Hey idiot, before you start coding did you check corner cases?
+Remember 1 mistake = 10 mins. Taking 9 mins and checking is always better
+Ex: 1. In N = 0/1,
+    2. (n*(n+1))/2 instead of n*(n+1)/2,
+    3. Overflow
+*/
+
+int n, m;
+ll best, ans;
+char x;
+void solve() {
+    cin >> n >> m;
+    best = inf;
+    v<v<int>> a(n + 1, v<int>(m + 1, 0));
+    FOR(i, 1, n) FOR(j, 1, m) {
+        cin >> x;
+        a[i][j] = int(x == '*');
+    }
+    FOR(q, 1, 2 - ((n * m) & 1)) {
+        int p = q & 1;
+        ans = 0;
+        FOR(i, 1, n) {
+            FOR(j, 1, m) {
+                ans += (a[i][j] ^ p);
+                p ^= 1;
+            }
+            if (m % 2 == 0)
+                p ^= 1;
+        }
+        best = min(best, ans);
+    }
+    cout << best << endl;
+}
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    int T = 1;
+    cin >> T;
+    while (T--)
+        solve();
+    return 0;
+}

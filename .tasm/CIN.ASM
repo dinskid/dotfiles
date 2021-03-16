@@ -1,0 +1,23 @@
+DATA SEGMENT
+num db 50 DUP(?)
+DATA ENDS
+
+CODE SEGMENT
+ASSUME CS:CODE,DS:DATA
+
+CIN PROC
+pop pc
+pop ip
+RET
+CIN ENDP
+
+START:
+
+mov ax, data
+mov ds, ax
+
+call cin
+
+CODE ENDS
+END START
+
