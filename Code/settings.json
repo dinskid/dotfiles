@@ -1,0 +1,98 @@
+{
+    // vscodevim settings
+    "vim.useSystemClipboard": true,
+    "vim.leader": "<space>",
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "<leader>",
+                "y"
+            ],
+            "commands": [
+                ":%y",
+                ":%w"
+            ]
+        },
+        {
+            "before": [
+                "<leader>",
+                "s"
+            ],
+            "commands": [
+                "workbench.action.toggleSidebarVisibility"
+            ]
+        },
+        {
+            "before": [
+                "<leader>",
+                "."
+            ],
+            "commands": [
+                "workbench.action.quickOpen"
+            ]
+        },
+        {
+            "before": [
+                "<leader>",
+                "q"
+            ],
+            "commands": [
+                "workbench.action.closeActiveEditor"
+            ]
+        },
+        {
+            "before": [
+                "<leader>",
+                ","
+            ],
+            "commands": [
+                "workbench.action.showCommands"
+            ]
+        }
+    ],
+    "vim.handleKeys": {
+        "<C-w>": false,
+    },
+    "vim.enableNeovim": true,
+    "vim.neovimPath": "/usr/bin/nvim",
+    "editor.fontSize": 13,
+    "keyboard.dispatch": "keyCode",
+    "editor.lineNumbers": "relative",
+    "editor.formatOnSave": true,
+    "editor.tabCompletion": "on",
+    "explorer.confirmDelete": false,
+    "python.pythonPath": "/usr/bin/python3",
+    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.suggestSelection": "first",
+    "editor.rulers": [
+        80,
+    ],
+    "C_Cpp.clang_format_fallbackStyle": "{BasedOn: Google, ColumnLimit: 80}",
+    "settingsSync.ignoredSettings": [
+        "-C_Cpp.clang_format_fallbackStyle"
+    ],
+    "C_Cpp.default.cppStandard": "c++17",
+    "workbench.colorTheme": "One Dark Pro",
+    // lc
+    "leetcode.workspaceFolder": "/home/dinskid/cp/rand/lc",
+    "leetcode.defaultLanguage": "cpp",
+    "leetcode.hint.configWebviewMarkdown": false,
+    "leetcode.hint.commandShortcut": false,
+    "leetcode.hint.commentDescription": false,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "workbench.startupEditor": "readme",
+    "editor.tabSize": 2,
+    "C_Cpp.clang_format_style": "",
+    "C_Cpp.formatting": "vcFormat",
+    "C_Cpp.vcFormat.newLine.beforeElse": false,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.message.error.show": false,
+    "window.zoomLevel": 1,
+    "python.showStartPage": false,
+}

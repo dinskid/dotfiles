@@ -1,0 +1,74 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "cp_create_outputs",
+            "type": "shell",
+            "command": "mkdir -p .outputs",
+            "presentation": {
+                "reveal": "never"
+            }
+        },
+        {
+            "label": "cp_make",
+            "type": "shell",
+            "command": "make ${fileBasenameNoExtension} && mv ${fileBasenameNoExtension} .outputs/ && .outputs/${fileBasenameNoExtension}",
+            "options": {
+                "env": {
+                    "CXXFLAGS": "-std=c++17 -Wshadow -Wall -g -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -DLOCAL"
+                }
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true,
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "dedicated",
+            }
+        },
+        {
+            "label": "cp_submit_make",
+            "type": "shell",
+            "command": "make ${fileBasenameNoExtension} && mv ${fileBasenameNoExtension} .outputs/ && .outputs/${fileBasenameNoExtension}",
+            "options": {
+                "env": {
+                    "CXXFLAGS": "-std=c++17 -Wall"
+                }
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "dedicated",
+            }
+        },
+        {
+            "label": "cp_run",
+            "type": "shell",
+            "command": "./.outputs/${fileBasenameNoExtension}",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared",
+            }
+        },
+        {
+            "label": "cp_run_in",
+            "type": "shell",
+            "command": "./.outputs/${fileBasenameNoExtension} < in",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared",
+            }
+        },
+    ],
+    "options": {
+        "cwd": "${fileDirname}"
+    }
+}
