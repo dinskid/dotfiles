@@ -99,6 +99,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#
 
 vsc() {
 	code $1 . && exit
@@ -117,8 +118,10 @@ fedup() {
 }
 
 intern() {
-	cd ~/files/code/web/internship
+	cd ~/files/intern/$1
 }
+
 export PATH="$HOME/.npm/bin:$PATH"
-export PATH="$HOME/.sfs/mongodb-shell/bin:$PATH"
-export PATH="/home/username/anaconda3/bin:$PATH"
+export PATH=~/.local/bin/:$PATH
+
+
